@@ -1,10 +1,10 @@
-# 🧠 SentimentIQ — Sentiment Analysis Web App
+#  SentimentIQ — Sentiment Analysis Web App
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-onrender.com-blue?style=for-the-badge&logo=render)](https://sentiment-analyzer-dahc.onrender.com/)
 [![Render Status](https://img.shields.io/badge/Deployment-Live%20%26%20Passing-brightgreen?style=for-the-badge&logo=render)](https://sentiment-analyzer-dahc.onrender.com/)
 
-> 🚀 **Live Demo URL:** [https://sentiment-analyzer-dahc.onrender.com/](https://sentiment-analyzer-dahc.onrender.com/)  
-> **Amazon ML Summer School 2026 Project**  
+
+
 > A hybrid NLP sentiment analyzer built with Python, Flask, and a custom rule-based + lexicon ML model — no external ML libraries required.
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)
@@ -14,14 +14,14 @@
 
 ---
 
-## 🌐 Live Application
+##  Live Application
 Access the deployed web application:
-👉 **[https://sentiment-analyzer-dahc.onrender.com/](https://sentiment-analyzer-dahc.onrender.com/)**
+ **[https://sentiment-analyzer-dahc.onrender.com/](https://sentiment-analyzer-dahc.onrender.com/)**
 
 
 ---
 
-## 📌 Overview
+##  Overview
 
 **SentimentIQ** is a web application that classifies text as **Positive**, **Negative**, or **Neutral** using a custom hybrid NLP model. It is built entirely from scratch without relying on heavy ML frameworks — demonstrating core machine learning concepts like feature extraction, scoring functions, normalization, and confidence estimation.
 
@@ -33,23 +33,23 @@ This project was developed as part of the **Amazon ML Summer School 2026** progr
 
 ---
 
-## 🎯 Features
+##  Features
 
 | Feature | Description |
 |---|---|
-| 🔍 Real-time Analysis | Analyze any text instantly via a clean web UI |
-| 📊 Confidence Score | Normalized confidence metric [0–100%] per prediction |
-| 🌟 Word Highlights | Visual breakdown of positive/negative keywords |
-| 😊 Emoji Support | Handles emoji-based sentiment signals |
-| 🔄 Negation Handling | Detects phrases like "not bad", "didn't hate" |
-| 📈 Intensifiers | Boosts scores for words like "very", "extremely" |
-| 🗂️ Batch API | `/batch` endpoint for analyzing multiple texts |
-| 🕓 History Panel | Tracks last 5 analyses in the UI |
-| ✅ Full Test Suite | 15+ unit tests with pytest |
+|  Real-time Analysis | Analyze any text instantly via a clean web UI |
+|  Confidence Score | Normalized confidence metric [0–100%] per prediction |
+|  Word Highlights | Visual breakdown of positive/negative keywords |
+|  Emoji Support | Handles emoji-based sentiment signals |
+|  Negation Handling | Detects phrases like "not bad", "didn't hate" |
+|  Intensifiers | Boosts scores for words like "very", "extremely" |
+|  Batch API | `/batch` endpoint for analyzing multiple texts |
+|  History Panel | Tracks last 5 analyses in the UI |
+|  Full Test Suite | 15+ unit tests with pytest |
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 sentiment-analyzer/
@@ -72,7 +72,7 @@ sentiment-analyzer/
 
 ---
 
-## ⚙️ How the Model Works
+##  How the Model Works
 
 The model uses a **3-layer hybrid scoring approach**:
 
@@ -116,7 +116,7 @@ Input Text
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -202,7 +202,7 @@ Analyze multiple texts in one request.
 
 ---
 
-## 🧪 Running Tests
+##  Running Tests
 
 ```bash
 # Run all tests
@@ -225,7 +225,7 @@ tests/test_sentiment.py::TestSentimentLabels::test_intensifier      PASSED
 
 ---
 
-## 📚 ML Concepts Demonstrated
+##  ML Concepts Demonstrated
 
 This project intentionally demonstrates foundational ML concepts that are central to the Amazon ML Summer School curriculum:
 
@@ -239,7 +239,7 @@ This project intentionally demonstrates foundational ML concepts that are centra
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - [ ] Integrate a trained ML classifier (Naive Bayes / Logistic Regression) using scikit-learn
 - [ ] Add CSV upload for bulk batch processing
@@ -250,7 +250,7 @@ This project intentionally demonstrates foundational ML concepts that are centra
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Pull requests are welcome! For major changes, please open an issue first.
 
@@ -262,17 +262,12 @@ Pull requests are welcome! For major changes, please open an issue first.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👤 Author
-
-**Your Name**  
-B.Tech / M.Tech / PhD Student — [Your Institute]  
-Expected Graduation: 2027 / 2028  
 
 - GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
 - LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
