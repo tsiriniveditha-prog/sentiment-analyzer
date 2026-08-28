@@ -1,7 +1,5 @@
 #  SentimentIQ — Sentiment Analysis Web App
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-onrender.com-blue?style=for-the-badge&logo=render)](https://sentiment-analyzer-dahc.onrender.com/)
-[![Render Status](https://img.shields.io/badge/Deployment-Live%20%26%20Passing-brightgreen?style=for-the-badge&logo=render)](https://sentiment-analyzer-dahc.onrender.com/)
 
 
 
