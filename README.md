@@ -1,9 +1,9 @@
 # 🧠 SentimentIQ — Sentiment Analysis Web App
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-sentimentanalyser.vercel.app-blue?style=for-the-badge&logo=vercel)](https://sentimentanalyser-tsiriniveditha-prog.vercel.app)
-[![Vercel Status](https://img.shields.io/badge/Vercel-Deployed-brightgreen?style=for-the-badge&logo=vercel)](https://sentimentanalyser-tsiriniveditha-prog.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-onrender.com-blue?style=for-the-badge&logo=render)](https://sentiment-analyzer-dahc.onrender.com/)
+[![Render Status](https://img.shields.io/badge/Deployment-Live%20%26%20Passing-brightgreen?style=for-the-badge&logo=render)](https://sentiment-analyzer-dahc.onrender.com/)
 
-> 🚀 **Live Demo URL:** [https://sentimentanalyser-tsiriniveditha-prog.vercel.app](https://sentimentanalyser-tsiriniveditha-prog.vercel.app)  
+> 🚀 **Live Demo URL:** [https://sentiment-analyzer-dahc.onrender.com/](https://sentiment-analyzer-dahc.onrender.com/)  
 > **Amazon ML Summer School 2026 Project**  
 > A hybrid NLP sentiment analyzer built with Python, Flask, and a custom rule-based + lexicon ML model — no external ML libraries required.
 
@@ -16,7 +16,7 @@
 
 ## 🌐 Live Application
 Access the deployed web application:
-👉 **[https://sentimentanalyser-tsiriniveditha-prog.vercel.app](https://sentimentanalyser-tsiriniveditha-prog.vercel.app)**
+👉 **[https://sentiment-analyzer-dahc.onrender.com/](https://sentiment-analyzer-dahc.onrender.com/)**
 
 
 ---
