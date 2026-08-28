@@ -5,10 +5,6 @@
 
 > A hybrid NLP sentiment analyzer built with Python, Flask, and a custom rule-based + lexicon ML model — no external ML libraries required.
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)
-![Flask](https://img.shields.io/badge/Flask-2.3%2B-black?style=flat-square&logo=flask)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen?style=flat-square)
 
 ---
 
