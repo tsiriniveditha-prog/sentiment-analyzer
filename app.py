@@ -1,12 +1,22 @@
-from flask import Flask, render_template, request, jsonify
+import os
+from flask import Flask, render_template, request, jsonify, send_file
 from model.sentiment_model import SentimentAnalyzer
 
-app = Flask(__name__)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+TEMPLATE_DIR = os.path.join(BASE_DIR, "templates")
+
+app = Flask(__name__, template_folder=TEMPLATE_DIR)
 analyzer = SentimentAnalyzer()
 
 @app.route("/")
 def index():
-    return render_template("index.html")
+    try:
+        return render_template("index.html")
+    except Exception:
+        index_path = os.path.join(TEMPLATE_DIR, "index.html")
+        if os.path.exists(index_path):
+            return send_file(index_path)
+        return "SentimentIQ App is running, but index.html could not be located.", 500
 
 @app.route("/analyze", methods=["POST"])
 def analyze():
