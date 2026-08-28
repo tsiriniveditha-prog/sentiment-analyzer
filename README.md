@@ -1,5 +1,9 @@
 # 🧠 SentimentIQ — Sentiment Analysis Web App
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-sentimentanalyser.vercel.app-blue?style=for-the-badge&logo=vercel)](https://sentimentanalyser-tsiriniveditha-prog.vercel.app)
+[![Vercel Status](https://img.shields.io/badge/Vercel-Deployed-brightgreen?style=for-the-badge&logo=vercel)](https://sentimentanalyser-tsiriniveditha-prog.vercel.app)
+
+> 🚀 **Live Demo URL:** [https://sentimentanalyser-tsiriniveditha-prog.vercel.app](https://sentimentanalyser-tsiriniveditha-prog.vercel.app)  
 > **Amazon ML Summer School 2026 Project**  
 > A hybrid NLP sentiment analyzer built with Python, Flask, and a custom rule-based + lexicon ML model — no external ML libraries required.
 
@@ -7,6 +11,13 @@
 ![Flask](https://img.shields.io/badge/Flask-2.3%2B-black?style=flat-square&logo=flask)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen?style=flat-square)
+
+---
+
+## 🌐 Live Application
+Access the deployed web application:
+👉 **[https://sentimentanalyser-tsiriniveditha-prog.vercel.app](https://sentimentanalyser-tsiriniveditha-prog.vercel.app)**
+
 
 ---
 
